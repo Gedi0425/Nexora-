@@ -3,7 +3,7 @@ window.PORTFOLIO_CONFIG = {
   profile: {
     name: 'Surafel Bekele',
     initials: 'SB',
-    location: 'Addis Ababa, Ethiopia',
+    location: 'Adama, Ethiopia',
     established: 2017,
     yearsExperience: 8,
     projectsCompleted: 120,
