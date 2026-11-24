@@ -16,7 +16,7 @@ window.PORTFOLIO_CONFIG = {
     // Set this to your HTTPS form-service endpoint to enable online submissions.
     contactEndpoint: '',
     socials: [
-      { name: 'Instagram', url: 'https://www.instagram.com/surafel3510?gwpx=MWF0N3dmMHhmYmNkcg==', icon: 'fa-instagram' },
+      { name: 'Instagram', url: 'https://www.instagram.com/surafel3510', icon: 'fa-instagram' },
       { name: 'Facebook', url: 'https://facebook.com/', icon: 'fa-facebook-f' },
       { name: 'Telegram', url: 'https://t.me/@Suraw23', icon: 'fa-telegram' },
       { name: 'WhatsApp', url: 'https://wa.me/+251985339523', icon: 'fa-whatsapp' },
