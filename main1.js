@@ -5,9 +5,9 @@ window.PORTFOLIO_CONFIG = {
     initials: 'SB',
     location: 'Adama, Ethiopia',
     established: 2017,
-    yearsExperience: 8,
-    projectsCompleted: 120,
-    happyClients: 32,
+    yearsExperience: 3,
+    projectsCompleted: 22,
+    happyClients: 7,
   },
   contact: {
     email: 'hello@yourname.design',
